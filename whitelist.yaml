@@ -31,3 +31,6 @@
   - url: "*.surge.sh"
   - url: revoke.cash
   - url: nftplus.io
+  - url: "*.dweb.link"
+  - url: "*.inbrowser.link"
+  - url: ipfs.io
